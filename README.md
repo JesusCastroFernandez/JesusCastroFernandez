@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JesusCastroFernandez
-- 👀 I’m interested in code
+- 👀 I’m interested in Programming with AI
 - 🌱 I’m currently learning DAW
 - 💞️ I’m looking to collaborate on community
 - 📫 How to reach me: studing the code
